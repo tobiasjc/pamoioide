@@ -1,20 +1,21 @@
 # IDEs
-.project/
-.classpath/
+**/.project/
+**/.classpath/
 
 ## intellij
-.idea/
+**/.idea/
 
 ## vscode
-.settings/
-.vscode/
+**/.settings/
+**/.vscode/
 
 ## eclipse
-.factorypath
-.sbt/
+**/.factorypath
 
 # build
-.cache/
-.build/
-target/
+**/.sbt/
+**/.cache/
+**/.build/
+**/target/
+**/.antlr/
 
