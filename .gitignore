@@ -1,0 +1,20 @@
+# IDEs
+.project/
+.classpath/
+
+## intellij
+.idea/
+
+## vscode
+.settings/
+.vscode/
+
+## eclipse
+.factorypath
+.sbt/
+
+# build
+.cache/
+.build/
+target/
+
